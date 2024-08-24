@@ -1,10 +1,15 @@
+import { Link } from "react-router-dom";
 import Title from "../components/Title";
 import Titlebar from "../components/Titlebar";
 function Homepage() {
   return (
     <div className="bg-gray-200">
       <Titlebar></Titlebar>
-      <Title number="#1" title="Instalace Windows server" />
+      <Title
+        link="/instalace-windows-serveru"
+        number="#1"
+        title="Instalace Windows server"
+      />
       <Title number="#2" title="Nastavení síťových karet" />
       <Title number="#3" title="Instalace AD včetně DNS" />
       <Title number="#4" title="Nasdílení složky (home)" />
