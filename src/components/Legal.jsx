@@ -1,6 +1,6 @@
 function Legal() {
   return (
-    <div className="grid grid-cols-6 p-4 m-4 bg-white rounded-lg">
+    <div className="grid grid-cols-6 p-4 m-4 bg-white rounded-lg border-2 border-red-600">
       <span className="col-span-1 text-center text-red-600 material-symbols-outlined">
         warning
       </span>
