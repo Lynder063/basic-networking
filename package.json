@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@mui/icons-material": "^5.16.7",
+    "@mui/material": "^5.16.7",
     "install": "^0.13.0",
     "npm": "^10.8.2",
     "prop-types": "^15.8.1",

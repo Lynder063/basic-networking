@@ -1,10 +1,11 @@
-import { Link } from "react-router-dom";
 import Title from "../components/Title";
 import Titlebar from "../components/Titlebar";
+import Legal from "../components/Legal";
 function Homepage() {
   return (
     <div className="bg-gray-200">
       <Titlebar></Titlebar>
+      <Legal></Legal>
       <Title
         link="/instalace-windows-serveru"
         number="#1"
