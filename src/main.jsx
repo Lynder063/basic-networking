@@ -7,11 +7,10 @@ import PageError from "./pages/PageError";
 import InstallWindowsServer from "./pages/InstallWindowsServer";
 
 const router = createBrowserRouter([
-  { path: "/", element: <Homepage />, errorElement: <PageError /> },
+  { path: "/", element: <Homepage /> },
   {
     path: "/instalace-windows-serveru",
     element: <InstallWindowsServer />,
-    errorElement: <PageError />,
   },
 ]);
 
