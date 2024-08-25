@@ -20,4 +20,9 @@ function Topbar(props) {
   );
 }
 
+Topbar.propTypes = {
+  number: PropTypes.string,
+  title: PropTypes.string,
+};
+
 export default Topbar;
