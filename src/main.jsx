@@ -4,6 +4,7 @@ import ReactDOM from "react-dom/client";
 import Homepage from "./pages/Homepage";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import PageError from "./pages/PageError";
+import SettingUpNetwork from "./pages/SettingUpNetwork";
 import InstallWindowsServer from "./pages/InstallWindowsServer";
 
 const basename = "/basic-networking";
@@ -16,6 +17,7 @@ const router = createBrowserRouter(
       element: <InstallWindowsServer />,
     },
     { path: "*", element: <PageError /> },
+    { path: "/nastavovani-sitovych-karet", element: <SettingUpNetwork /> },
   ],
   { basename }
 );

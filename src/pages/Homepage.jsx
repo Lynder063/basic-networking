@@ -14,7 +14,11 @@ function Homepage() {
           number="#1"
           title="Instalace Windows server"
         />
-        <Title number="#2" title="Nastavení síťových karet" />
+        <Title
+          link="/nastavovani-sitovych-karet"
+          number="#2"
+          title="Nastavení síťových karet"
+        />
         <Title number="#3" title="Instalace AD včetně DNS" />
         <Title number="#4" title="Nasdílení složky (home)" />
         <Title number="#5" title="Nasdílení složky (spolecna)" />
