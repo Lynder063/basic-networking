@@ -1,8 +1,8 @@
-# React + Vite
+# Basic Networking
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> [!WARNING]
+> Obsah na této webové stránce je poskytován výhradně pro edukativní účely. Informace zde uvedené nemusí nutně odrážet skutečnou realitu a mohou obsahovat vymyšlené nebo smyšlené prvky. Jakákoli podobnost s reálnými osobami, událostmi nebo místy je čistě náhodná. Autor a provozovatel této stránky nepřebírá žádnou zodpovědnost za správnost, úplnost ani aktuálnost informací uvedených na této stránce. Jakékoliv kroky podniknuté na základě informací z této stránky jsou výhradně na vlastní riziko návštěvníka. Doporučujeme si před podniknutím jakéhokoliv kroku ověřit informace z důvěryhodných zdrojů.
+> Použitím této stránky berete na vědomí a souhlasíte s těmito podmínkami.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Tento web je psán v ReactJS s pomocí TailwindCSS
+- Udělal jsem design a kod za dva dny takže to nebude úplně nejlepší
