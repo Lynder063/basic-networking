@@ -2,11 +2,9 @@
 Welcome to the Basic Networking repository! This project is designed to help beginners understand fundamental networking concepts and how to set up a Windows Server.
 
 > [!WARNING]
-> Obsah na této webové stránce je poskytován výhradně pro edukativní účely. Informace zde uvedené nemusí nutně odrážet skutečnou realitu a mohou obsahovat vymyšlené nebo smyšlené prvky. Jakákoli podobnost s reálnými osobami, událostmi nebo místy je čistě náhodná. Autor a provozovatel této stránky nepřebírá žádnou zodpovědnost za správnost, úplnost ani aktuálnost informací uvedených na této stránce. Jakékoliv kroky podniknuté na základě informací z této stránky jsou výhradně na vlastní riziko návštěvníka. Doporučujeme si před podniknutím jakéhokoliv kroku ověřit informace z důvěryhodných zdrojů.
-> Použitím této stránky berete na vědomí a souhlasíte s těmito podmínkami.
+> The content on this website is provided solely for educational purposes. The information presented here may not necessarily reflect actual reality and may contain fictional or imagined elements. Any resemblance to real persons, events, or places is purely coincidental. The author and operator of this site assume no responsibility for the accuracy, completeness, or timeliness of the information provided on this site. Any actions taken based on the information from this site are at the visitor’s own risk. We recommend verifying information from reliable sources before taking any action. By using this site, you acknowledge and agree to these terms.
 
-- Tento web je psán v ReactJS s pomocí TailwindCSS
-- Udělal jsem design a kod za dva dny takže to nebude úplně nejlepší
+- ReactJS, TailwindCSS
 
 ## License
 Distributed under the MIT License. See LICENSE for more information.
