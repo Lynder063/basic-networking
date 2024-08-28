@@ -2,11 +2,11 @@ import Infobox from "../components/Infobox";
 import Legal from "../components/Legal";
 import Topbar from "../components/Topbar";
 
-import pic17 from "../assets/PZ_img/017.png";
-import pic18 from "../assets/PZ_img/018.png";
-import pic19 from "../assets/PZ_img/019.png";
-import pic20 from "../assets/PZ_img/020.png";
-import pic21 from "../assets/PZ_img/021.png";
+import pic17 from "../assets/PZ_img/image_17.png";
+import pic18 from "../assets/PZ_img/image_18.png";
+import pic19 from "../assets/PZ_img/image_19.png";
+import pic20 from "../assets/PZ_img/image_20.png";
+import pic21 from "../assets/PZ_img/image_21.png";
 
 function InstallingIISwithASPsupport() {
   return (
