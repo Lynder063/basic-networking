@@ -17,6 +17,7 @@ function InstallOfADwithDNS() {
     <div>
       <Topbar number="#3" title={"Instalace AD včetně DNS"} />
       <Legal />
+
       <Infobox>
         Server manager -{">"} Manage (vlaječka) -{">"} Add roles features -{">"}{" "}
         doinstalovat AD a DNS
