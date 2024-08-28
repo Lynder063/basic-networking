@@ -35,12 +35,13 @@ function Homepage() {
           number="#6"
           title="Instalace IIS s podporou ASP"
         />
-        <Title number="#7" title="Konfigurace DHCP serveru" />
-        <Title number="#8" title="Konfigurace virtualních webů" />
         <Title
-          number="#9"
-          title="Terminálového serveru pro Domain Users"
+          to="/konfigurace-dhcp-serveru"
+          number="#7"
+          title="Konfigurace DHCP serveru"
         />
+        <Title number="#8" title="Konfigurace virtualních webů" />
+        <Title number="#9" title="Terminálového serveru pro Domain Users" />
         <Title number="#10" title="Windows server jako router" />
       </div>
     </div>
