@@ -10,6 +10,7 @@ import InstallOfADwithDNS from "./pages/InstallOfADwithDNS";
 import SettingUpSpolecna from "./pages/SettingUpSpolecna";
 import InstallingIISwithASPsupport from "./pages/InstallingIISwithASPsupport";
 import ConfiguringDHCPserver from "./pages/ConfiguringDHCPserver";
+import ConfiguringVirtualWebsites from "./pages/ConfiguringVirtualWebsites";
 const basename = "/basic-networking";
 
 const router = createBrowserRouter(
@@ -39,6 +40,10 @@ const router = createBrowserRouter(
     {
       path: "/konfigurace-dhcp-serveru",
       element: <ConfiguringDHCPserver />,
+    },
+    {
+      path: "/konfigurace-virtualnich-webu",
+      element: <ConfiguringVirtualWebsites />,
     },
   ],
   { basename }
