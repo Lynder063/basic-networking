@@ -9,7 +9,7 @@ import pic9 from "../assets/PZ_img/009.png";
 function SettingUpNetwork() {
   return (
     <div>
-      <Topbar number="2" title={"Nastavení síťových karet"} />
+      <Topbar number="#2" title={"Nastavení síťových karet"} />
       <Legal />
 
       <Infobox>

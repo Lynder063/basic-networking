@@ -19,7 +19,7 @@ function Homepage() {
           number="#2"
           title="Nastavení síťových karet"
         />
-        <Title number="#3" title="Instalace AD včetně DNS" />
+        <Title link="/instalace-active-directory-s-dns" number="#3" title="Instalace AD včetně DNS" />
         <Title number="#4" title="Nasdílení složky (home)" />
         <Title number="#5" title="Nasdílení složky (spolecna)" />
         <Title number="#6" title="Instalace IIS s podporou ASP" />

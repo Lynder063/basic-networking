@@ -6,6 +6,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import PageError from "./pages/PageError";
 import SettingUpNetwork from "./pages/SettingUpNetwork";
 import InstallWindowsServer from "./pages/InstallWindowsServer";
+import InstallOfADwithDNS from "./pages/InstallOfADwithDNS";
 
 const basename = "/basic-networking";
 
@@ -18,6 +19,7 @@ const router = createBrowserRouter(
     },
     { path: "*", element: <PageError /> },
     { path: "/nastavovani-sitovych-karet", element: <SettingUpNetwork /> },
+    { path: "/instalace-active-directory-s-dns", element: <InstallOfADwithDNS /> },
   ],
   { basename }
 );
