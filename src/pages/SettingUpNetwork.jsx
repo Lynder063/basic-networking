@@ -56,7 +56,7 @@ function SettingUpNetwork() {
 
       <div className="p-4 mx-auto my-auto w-full sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
         <img
-          src={pic8}
+          src={pic9}
           alt="Obrázek 8"
           className="object-cover h-auto rounded-sm"
           loading="lazy"

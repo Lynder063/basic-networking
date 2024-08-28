@@ -14,8 +14,8 @@ function InstallingIISwithASPsupport() {
       <Topbar number="#6" title={"Instalace IIS s podporou ASP"} />
       <Legal />
       <Infobox>
-        Server manager -{">"} Manage (vlaječka) -{">"} Add roles
-        features -{">"} Web Server (IIS)
+        Server manager -{">"} Manage (vlaječka) -{">"} Add roles features -{">"}{" "}
+        Web Server (IIS)
       </Infobox>
       <div className="p-4 mx-auto my-auto w-full sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
         <img
@@ -50,9 +50,9 @@ function InstallingIISwithASPsupport() {
         />
       </div>
       <Infobox>
-        Zde vytvoříme soubor "index.asp" a vložíme tam ten kod co nám
-        byl poskytnut a pak na na adrese "127.0.0.1" můžeme ověřit
-        jestli nám naše stránka funguje
+        Zde vytvoříme soubor index.asp a vložíme tam ten kod co nám byl
+        poskytnut a pak na na adrese 127.0.0.1 můžeme ověřit jestli nám naše
+        stránka funguje
       </Infobox>
       <div className="p-4 mx-auto my-auto w-full sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
         <img
