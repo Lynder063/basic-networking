@@ -11,6 +11,8 @@ import SettingUpSpolecna from "./pages/SettingUpSpolecna";
 import InstallingIISwithASPsupport from "./pages/InstallingIISwithASPsupport";
 import ConfiguringDHCPserver from "./pages/ConfiguringDHCPserver";
 import ConfiguringVirtualWebsites from "./pages/ConfiguringVirtualWebsites";
+import TerminalAccessForDomainUsers from "./pages/TerminalAccessForDomainUsers";
+
 const basename = "/basic-networking";
 
 const router = createBrowserRouter(
@@ -44,6 +46,10 @@ const router = createBrowserRouter(
     {
       path: "/konfigurace-virtualnich-webu",
       element: <ConfiguringVirtualWebsites />,
+    },
+    {
+      path: "/terminalovy-pristup-pro-domenove-uzivatele",
+      element: <TerminalAccessForDomainUsers />,
     },
   ],
   { basename }
