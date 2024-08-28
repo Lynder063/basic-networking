@@ -30,7 +30,11 @@ function Homepage() {
           number="#5"
           title="Nasdílení složky (spolecna)"
         />
-        <Title number="#6" title="Instalace IIS s podporou ASP" />
+        <Title
+          link="/instalace-iis-s-podporou-asp"
+          number="#6"
+          title="Instalace IIS s podporou ASP"
+        />
         <Title number="#7" title="Konfigurace DHCP serveru" />
         <Title number="#8" title="Konfigurace virtualních webů" />
         <Title
