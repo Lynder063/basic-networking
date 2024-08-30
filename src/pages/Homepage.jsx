@@ -24,35 +24,34 @@ function Homepage() {
           number="#3"
           title="Instalace AD včetně DNS"
         />
-        <Title number="#4" title="Nasdílení složky (home)" />
         <Title
           link="/nastaveni-sdilene-slozky-spolecne"
-          number="#5"
+          number="#4"
           title="Nasdílení složky (spolecna)"
         />
         <Title
           link="/instalace-iis-s-podporou-asp"
-          number="#6"
+          number="#5"
           title="Instalace IIS s podporou ASP"
         />
         <Title
           link="/konfigurace-dhcp-serveru"
-          number="#7"
+          number="#6"
           title="Konfigurace DHCP serveru"
         />
         <Title
           link="/konfigurace-virtualnich-webu"
-          number="#8"
+          number="#7"
           title="Konfigurace virtualních webů"
         />
         <Title
           link="/terminalovy-pristup-pro-domenove-uzivatele"
-          number="#9"
+          number="#8"
           title="Terminálového serveru pro Domain Users"
         />
         <Title
           link="/windows-server-jako-router"
-          number="#10"
+          number="#9"
           title="Windows server jako router"
         />
       </div>

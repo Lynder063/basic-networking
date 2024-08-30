@@ -12,7 +12,7 @@ import pic46 from "../assets/PZ_img/image_46.png";
 function SettingUpSpolecna() {
   return (
     <div>
-      <Topbar number="#5" title={"Nasdílení složky (spolecne)"} />
+      <Topbar number="#4" title={"Nasdílení složky (spolecne)"} />
       <Legal />
       <Infobox>
         Vytvořte složku společná na disku C:

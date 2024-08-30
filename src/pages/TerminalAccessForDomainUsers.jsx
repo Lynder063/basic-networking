@@ -12,7 +12,7 @@ import pic31 from "../assets/PZ_img/image_31.png";
 function TerminalAccessForDomainUsers() {
   return (
     <div>
-      <Topbar number="#9" title={"Terminálového serveru pro Domain Users"} />
+      <Topbar number="#8" title={"Terminálového serveru pro Domain Users"} />
       <Legal />
       <Infobox>
         Server manager -{">"} Manage (vlaječka) -{">"} Add roles features -{">"}{" "}

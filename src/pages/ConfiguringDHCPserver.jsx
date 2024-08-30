@@ -15,7 +15,7 @@ import pic16 from "../assets/PZ_img/image_16.png";
 function ConfiguringDHCPserver() {
   return (
     <div>
-      <Topbar number="#7" title={"Konfigurace DHCP server"} />
+      <Topbar number="#6" title={"Konfigurace DHCP server"} />
       <Legal />
       <Infobox>
         Server manager -{">"} Manage (vlaječka) -{">"} Add roles features -{">"}{" "}

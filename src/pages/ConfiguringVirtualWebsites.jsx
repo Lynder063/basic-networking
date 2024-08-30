@@ -10,7 +10,7 @@ import pic25 from "../assets/PZ_img/image_25.png";
 function ConfiguringVirtualWebsites() {
   return (
     <div>
-      <Topbar number="#8" title={"Konfigurace virtualních webů"} />
+      <Topbar number="#7" title={"Konfigurace virtualních webů"} />
       <Legal />
       <Infobox>Nastavená produkt produkt100.cz</Infobox>
       <div className="p-4 mx-auto my-auto w-full sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">

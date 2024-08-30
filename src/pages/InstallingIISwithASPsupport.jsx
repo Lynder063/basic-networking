@@ -11,7 +11,7 @@ import pic21 from "../assets/PZ_img/image_21.png";
 function InstallingIISwithASPsupport() {
   return (
     <div>
-      <Topbar number="#6" title={"Instalace IIS s podporou ASP"} />
+      <Topbar number="#5" title={"Instalace IIS s podporou ASP"} />
       <Legal />
       <Infobox>
         Server manager -{">"} Manage (vlaječka) -{">"} Add roles features -{">"}{" "}
