@@ -12,6 +12,7 @@ import InstallingIISwithASPsupport from "./pages/InstallingIISwithASPsupport";
 import ConfiguringDHCPserver from "./pages/ConfiguringDHCPserver";
 import ConfiguringVirtualWebsites from "./pages/ConfiguringVirtualWebsites";
 import TerminalAccessForDomainUsers from "./pages/TerminalAccessForDomainUsers";
+import WindowsServerAsRouter from "./pages/WindowsServerAsRouter";
 
 const basename = "/basic-networking";
 
@@ -50,6 +51,10 @@ const router = createBrowserRouter(
     {
       path: "/terminalovy-pristup-pro-domenove-uzivatele",
       element: <TerminalAccessForDomainUsers />,
+    },
+    {
+      path: "/windows-server-jako-router",
+      element: <WindowsServerAsRouter />,
     },
   ],
   { basename }

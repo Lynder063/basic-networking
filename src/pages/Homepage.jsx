@@ -50,7 +50,11 @@ function Homepage() {
           number="#9"
           title="Terminálového serveru pro Domain Users"
         />
-        <Title number="#10" title="Windows server jako router" />
+        <Title
+          link="/windows-server-jako-router"
+          number="#10"
+          title="Windows server jako router"
+        />
       </div>
     </div>
   );
