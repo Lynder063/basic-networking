@@ -1,6 +1,6 @@
-import Topbar from "../components/Topbar";
 import Infobox from "../components/Infobox";
 import Legal from "../components/Legal";
+import Topbar from "../components/Topbar";
 
 import pic7 from "../assets/PZ_img/007.png";
 import pic8 from "../assets/PZ_img/008.png";
@@ -23,7 +23,7 @@ function SettingUpNetwork() {
         <b>DNS1:</b> 192.168.50.165
       </Infobox>
 
-      <div className="p-4 mx-auto my-auto w-full sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
+      <div className="w-full p-4 mx-auto my-auto sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
         <img
           src={pic7}
           alt="Obrázek 7"
@@ -39,7 +39,7 @@ function SettingUpNetwork() {
         <b>Statická IPv4 adresa:</b> <br></br>10.0.0.1/8{" "}
       </Infobox>
 
-      <div className="p-4 mx-auto my-auto w-full sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
+      <div className="w-full p-4 mx-auto my-auto sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
         <img
           src={pic8}
           alt="Obrázek 8"
@@ -54,7 +54,7 @@ function SettingUpNetwork() {
         <b>Statická IPv4 adresa:</b> <br></br>10.0.0.2/8{" "}
       </Infobox>
 
-      <div className="p-4 mx-auto my-auto w-full sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
+      <div className="w-full p-4 mx-auto my-auto sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
         <img
           src={pic9}
           alt="Obrázek 8"

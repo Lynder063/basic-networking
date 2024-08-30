@@ -1,6 +1,6 @@
-import Topbar from "../components/Topbar";
-import Legal from "../components/Legal";
 import Infobox from "../components/Infobox";
+import Legal from "../components/Legal";
+import Topbar from "../components/Topbar";
 
 import pic22 from "../assets/PZ_img/image_22.png";
 import pic23 from "../assets/PZ_img/image_23.png";
@@ -13,7 +13,7 @@ function ConfiguringVirtualWebsites() {
       <Topbar number="#7" title={"Konfigurace virtualních webů"} />
       <Legal />
       <Infobox>Nastavená produkt produkt100.cz</Infobox>
-      <div className="p-4 mx-auto my-auto w-full sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
+      <div className="w-full p-4 mx-auto my-auto sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
         <img
           src={pic22}
           alt="Obrázek 7"
@@ -30,7 +30,7 @@ function ConfiguringVirtualWebsites() {
         A pro IP address jsem dal IP adresu serveru což v tomto případě je
         10.0.0.1
       </Infobox>
-      <div className="p-4 mx-auto my-auto w-full sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
+      <div className="w-full p-4 mx-auto my-auto sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
         <img
           src={pic23}
           alt="Obrázek 7"
@@ -38,7 +38,7 @@ function ConfiguringVirtualWebsites() {
           loading="lazy"
         />
       </div>
-      <div className="p-4 mx-auto my-auto w-full sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
+      <div className="w-full p-4 mx-auto my-auto sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
         <img
           src={pic24}
           alt="Obrázek 7"
@@ -51,7 +51,7 @@ function ConfiguringVirtualWebsites() {
         potřeba tam vytvořit nějaký dokument v té složce třema index.html a do
         toho napsat nějaký text)
       </Infobox>
-      <div className="p-4 mx-auto my-auto w-full sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
+      <div className="w-full p-4 mx-auto my-auto sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
         <img
           src={pic25}
           alt="Obrázek 7"

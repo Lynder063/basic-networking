@@ -23,7 +23,7 @@ function InstallOfADwithDNS() {
         doinstalovat AD a DNS
       </Infobox>
 
-      <div className="p-4 mx-auto my-auto w-full sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
+      <div className="w-full p-4 mx-auto my-auto sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
         <img
           src={pic10}
           alt="Obraázek 10"
@@ -31,7 +31,7 @@ function InstallOfADwithDNS() {
           loading="lazy"
         />
       </div>
-      <div className="p-4 mx-auto my-auto w-full sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
+      <div className="w-full p-4 mx-auto my-auto sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
         <img
           src={pic11}
           alt="Obraázek 11"
@@ -39,7 +39,7 @@ function InstallOfADwithDNS() {
           loading="lazy"
         />
       </div>
-      <div className="p-4 mx-auto my-auto w-full sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
+      <div className="w-full p-4 mx-auto my-auto sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
         <img
           src={pic12}
           alt="Obraázek 12"
@@ -50,7 +50,7 @@ function InstallOfADwithDNS() {
       <Infobox>
         Teď musíme nastavit <strong>Active Directory</strong>
       </Infobox>
-      <div className="p-4 mx-auto my-auto w-full sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
+      <div className="w-full p-4 mx-auto my-auto sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
         <img
           src={pic13}
           alt="Obraázek 13"
@@ -62,7 +62,7 @@ function InstallOfADwithDNS() {
         <strong>Add new forest</strong>, a jako{" "}
         <strong>Root Domain name</strong> nastavíme podle potřeby
       </Infobox>
-      <div className="p-4 mx-auto my-auto w-full sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
+      <div className="w-full p-4 mx-auto my-auto sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
         <img
           src={pic14}
           alt="Obraázek 14"
@@ -74,7 +74,7 @@ function InstallOfADwithDNS() {
         Zde musíme nastavit heslo abychom mohli pokračovat v instalaci, nejlepší
         je zvolit <strong>Password1*</strong>
       </Infobox>
-      <div className="p-4 mx-auto my-auto w-full sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
+      <div className="w-full p-4 mx-auto my-auto sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
         <img
           src={image_2}
           alt="Obraázek 14"
@@ -86,7 +86,7 @@ function InstallOfADwithDNS() {
         V této části se náma NetBios vytvoří sam tak necháme defaultní hodnotu,
         A projedem zbytek wizardu a nainstalujeme!{" "}
       </Infobox>
-      <div className="p-4 mx-auto my-auto w-full sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
+      <div className="w-full p-4 mx-auto my-auto sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
         <img
           src={image_3}
           alt="Obraázek 15"
@@ -97,7 +97,7 @@ function InstallOfADwithDNS() {
       <Infobox>
         Půjdeme do Tools -{">"} Active Directory Users and Computers
       </Infobox>
-      <div className="p-4 mx-auto my-auto w-full sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
+      <div className="w-full p-4 mx-auto my-auto sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
         <img
           src={image_4}
           alt="Obraázek 16"
@@ -108,7 +108,7 @@ function InstallOfADwithDNS() {
       <Infobox>
         Teď si rozjedeme složku <strong>Users</strong> přidáme nového uživatele
       </Infobox>
-      <div className="p-4 mx-auto my-auto w-full sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
+      <div className="w-full p-4 mx-auto my-auto sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-1/3">
         <img
           src={image_5}
           alt="Obraázek 17"

@@ -1,16 +1,16 @@
 import React from "react";
-import "./index.css";
 import ReactDOM from "react-dom/client";
-import Homepage from "./pages/Homepage";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import PageError from "./pages/PageError";
-import SettingUpNetwork from "./pages/SettingUpNetwork";
-import InstallWindowsServer from "./pages/InstallWindowsServer";
-import InstallOfADwithDNS from "./pages/InstallOfADwithDNS";
-import SettingUpSpolecna from "./pages/SettingUpSpolecna";
-import InstallingIISwithASPsupport from "./pages/InstallingIISwithASPsupport";
+import "./index.css";
 import ConfiguringDHCPserver from "./pages/ConfiguringDHCPserver";
 import ConfiguringVirtualWebsites from "./pages/ConfiguringVirtualWebsites";
+import Homepage from "./pages/Homepage";
+import InstallingIISwithASPsupport from "./pages/InstallingIISwithASPsupport";
+import InstallOfADwithDNS from "./pages/InstallOfADwithDNS";
+import InstallWindowsServer from "./pages/InstallWindowsServer";
+import PageError from "./pages/PageError";
+import SettingUpNetwork from "./pages/SettingUpNetwork";
+import SettingUpSpolecna from "./pages/SettingUpSpolecna";
 import TerminalAccessForDomainUsers from "./pages/TerminalAccessForDomainUsers";
 import WindowsServerAsRouter from "./pages/WindowsServerAsRouter";
 

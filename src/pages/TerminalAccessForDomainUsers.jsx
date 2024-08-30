@@ -1,6 +1,6 @@
-import Topbar from "../components/Topbar";
-import Legal from "../components/Legal";
 import Infobox from "../components/Infobox";
+import Legal from "../components/Legal";
+import Topbar from "../components/Topbar";
 
 import pic26 from "../assets/PZ_img/image_26.png";
 import pic27 from "../assets/PZ_img/image_27.png";

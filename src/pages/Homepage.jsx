@@ -1,6 +1,6 @@
+import Legal from "../components/Legal";
 import Title from "../components/Title";
 import Titlebar from "../components/Titlebar";
-import Legal from "../components/Legal";
 
 function Homepage() {
   return (

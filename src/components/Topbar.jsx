@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 function Topbar(props) {
   return (
-    <div className="flex fixed top-0 left-0 flex-row flex-grow justify-evenly px-2 py-4 w-full text-lg align-baseline bg-white shadow-md">
+    <div className="fixed top-0 left-0 flex flex-row flex-grow w-full px-2 py-4 text-lg align-baseline bg-white shadow-md justify-evenly">
       <Link to="/" className="basis-1/4">
         <span className="material-symbols-outlined">arrow_back_ios_new</span>
       </Link>
