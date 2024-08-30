@@ -45,7 +45,11 @@ function Homepage() {
           number="#8"
           title="Konfigurace virtualních webů"
         />
-        <Title number="#9" title="Terminálového serveru pro Domain Users" />
+        <Title
+          link="/terminalovy-pristup-pro-domenove-uzivatele"
+          number="#9"
+          title="Terminálového serveru pro Domain Users"
+        />
         <Title number="#10" title="Windows server jako router" />
       </div>
     </div>
